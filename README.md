@@ -1,6 +1,6 @@
 # GovInfo
 
-全国行政区域json文件，根据行政区域id命名，包含省市区，采集整理来自民政部每月更新的行政区域信息。
+全国行政区域Json文件，根据行政区域id命名，包含省市区，采集整理来自民政部每月更新的行政区域信息。
 
 [民政部行政区域地址](http://www.mca.gov.cn/article/sj/xzqh/2020/)
 
@@ -8,7 +8,7 @@
 
 ### 直接使用Json文件
 
-[json文件](https://github.com/manaruto8/GovInfo/tree/master/app/src/main/assets)
+[Json文件](https://github.com/manaruto8/GovInfo/tree/master/app/src/main/assets)
 
 ### 获取最新Json文件
 
